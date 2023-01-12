@@ -1,0 +1,2 @@
+# Weatherman
+ Weatherman ruby assignmnet
